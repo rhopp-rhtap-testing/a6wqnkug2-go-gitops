@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a6wqnkug2-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/a6wqnkug2-go
